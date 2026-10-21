@@ -1,0 +1,17 @@
+{
+  "name": "Tube Tracker",
+  "short_name": "Tube Tracker",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#030813",
+  "theme_color": "#071021",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
